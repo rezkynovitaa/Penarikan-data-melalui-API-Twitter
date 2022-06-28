@@ -18,4 +18,5 @@ setelah memperoleh akun developer Twitter, langkah-langkah yang harus dilakukan 
     ![hasil pengambilan](https://user-images.githubusercontent.com/85878732/176194716-a9ae1e96-0934-484c-ae60-e7d7abfa7119.png)
 
 6. hasil pengambilan data masih belum berupa file csv, sehingga untuk memudahkan dalam proses analisis, data perlu diubah menjadi bentuk file csv dengan cara menggunakan perintah write_as_csv atau dapat dilihat pada gambar berikut
+  
     ![write as csv](https://user-images.githubusercontent.com/85878732/176195336-6526f815-2e59-42e8-98ad-ca7610934c81.png)
